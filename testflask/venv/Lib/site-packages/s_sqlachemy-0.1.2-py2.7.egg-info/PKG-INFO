@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: s-sqlachemy
+Version: 0.1.2
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: shennian
+Author-email: ashen19@hotmail.com
+License: MIT License
+Description: UNKNOWN
+Keywords: s_sqlachemy,orm
+Platform: any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3

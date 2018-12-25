@@ -1,0 +1,462 @@
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+<> 2018-12-21T090408.500.html
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+< C:/Users/翁学豪/Desktop/商城.jpg
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+< C:/Users/翁学豪/Desktop/商城.jpg
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+<> 2018-12-21T085658.500.html
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+<> 2018-12-21T085653.500.html
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+<> 2018-12-21T085648-1.500.html
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+<> 2018-12-21T085648.500.html
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+<> 2018-12-21T085646.500.html
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+<> 2018-12-21T085622.405.html
+
+###
+
+POST http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\翁学豪\Desktop\商城.jpg
+--null--
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085404.500.html
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085403-2.500.html
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085403-1.500.html
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085403.500.html
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085402.500.html
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085400.500.html
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085348.200.html
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085226.200.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085217.200.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085216.200.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085215.200.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085214-1.200.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085214.200.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085207.200.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T085206.200.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T084951.200.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T084759-3.404.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T084759-2.404.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T084759-1.404.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T084759.404.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T084553.404.html
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T084548.200.html
+
+###
+
+GET http://localhost:5000/demo
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T084530.404.html
+
+###
+
+GET http://localhost:5000/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-21T084312.200.html
+
+###
+
