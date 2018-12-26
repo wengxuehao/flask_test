@@ -14,6 +14,7 @@ def bubble_sort(nums):
 # 冒泡排序
 list = [45, 32, 8, 33, 12, 22, 19, 97]
 print(len(list))
+# 遍历数组中的数字
 for i in range(len(list) - 1):
     # 比较当前数字和后一个数字的差别
     for j in range(len(list) - i - 1):
